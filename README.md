@@ -9,10 +9,10 @@ Desarrollo de Aplicaciones Web
 Curso: 2023/2024 
 
 ## Índice
-1. Introducción
-2. Objetivos
+1. [Introducción](#id1)
+2. [Objetivos](#id2)
 3. [Medios necesarios](#id3)
-4. [Planificación] (#id4)
+4. [Planificación](#id4)
 
 
 ## Introducción<a name="id1"></a>
@@ -25,6 +25,12 @@ En este anteproyecto damos a explicar el proyecto que se quiere realizar, el cua
 Para la realización de esta aplicación necesitaremos utilizar página HTML, página CSS y JavaScript.
 
 ## Objetivos<a name="id2"></a>
+Los objetivos con los cuales me comprometo a realizar este proyecto, son los siguientes:
+    -Implementación de Búsqueda: Desarrollar la funcionalidad de búsqueda, la cual, permita al usuario poder buscar una cita en concreto.
+    -Eficacia y Usabilidad: Diseñar el proyecto de una manera que sea facil de poder manejar por el usuario, así como contenga todo lo mencionado y necesario.
+    -Base de datos: Incluir la base de datos para la persistencia de las citas y las fichas de cada cliente, así para poder obtener una batería de clientes que pasan por consulta.
+
+
 ## Medios necesarios<a name="id3"></a>
 En este apartado indicaremos que medios físicos (hardware) y los medios lógicos (software) vamos a necesitar, siendo estos los siguientes:
 
