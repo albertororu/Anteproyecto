@@ -3,15 +3,15 @@
 # Nombre Proyecto
 
 
-|Autor: Alberto Romero Rubiales|
-|I.E.S. Francisco Romero Vargas(Jerez de la Frontera) |
-|Desarrollo de Aplicaciones Web |
-|Curso: 2023/2024 |
+Autor: Alberto Romero Rubiales
+I.E.S. Francisco Romero Vargas(Jerez de la Frontera) 
+Desarrollo de Aplicaciones Web 
+Curso: 2023/2024 
 
 ## Índice
-1. [Introducción] (#id1)
-2. [Objetivos] (#id2)
-3. [Medios necesarios] (#id3)
+1. Introducción
+2. Objetivos
+3. [Medios necesarios](#id3)
 4. [Planificación] (#id4)
 
 
