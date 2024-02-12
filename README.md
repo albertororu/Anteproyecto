@@ -3,10 +3,10 @@
 # Nombre Proyecto
 
 
-Autor: Alberto Romero Rubiales
-I.E.S. Francisco Romero Vargas(Jerez de la Frontera) 
-Desarrollo de Aplicaciones Web 
-Curso: 2023/2024 
+- Autor: Alberto Romero Rubiales
+- I.E.S. Francisco Romero Vargas(Jerez de la Frontera) 
+- Desarrollo de Aplicaciones Web 
+- Curso: 2023/2024 
 
 ## Índice
 1. [Introducción](#id1)
@@ -19,22 +19,29 @@ Curso: 2023/2024
 
 En este apartado explicaré de qué va a ir el proyecto. La idea de esta introducción es que cualquier persona que la lea sea capaz de entender el proyecto que se va a realizar.
 
-### - Explicación: 
-En este anteproyecto damos a explicar el proyecto que se quiere realizar, el cual, es el siguiente. Queremos realizar una aplicación donde se pueda agendar citas, es decir, supongamos que una nueva empresa del sector de la sanidad o dentista necesita alguna aplicación para tener organizada sus citas, con esta aplicación buscamos el poder agendar esas citas, como a la vez modificar o eliminar.
-
-Para la realización de esta aplicación necesitaremos utilizar página HTML, página CSS y JavaScript.
+#### - Explicación: 
+En este anteproyecto damos a explicar el proyecto que se quiere realizar, el cual, es el siguiente. Queremos realizar una aplicación donde se pueda coger y agendar citas de un lugar especifico, donde cada usuario se registre y una vez registrado poder coger cita para un día y hora en concreto, a la vez que modificar o eliminar la cita. Por otra parte el admnistador de la empresa puede ver, modificar, eliminar y añadir citas también. Para la realización de esta aplicación necesitaremos utilizar página HTML, página CSS y JavaScript con biblioteca React.
 
 ## Objetivos<a name="id2"></a>
-Los objetivos con los cuales me comprometo a realizar este proyecto, son los siguientes:
-    -Implementación de Búsqueda: Desarrollar la funcionalidad de búsqueda, la cual, permita al usuario poder buscar una cita en concreto.
-    -Eficacia y Usabilidad: Diseñar el proyecto de una manera que sea facil de poder manejar por el usuario, así como contenga todo lo mencionado y necesario.
-    -Base de datos: Incluir la base de datos para la persistencia de las citas y las fichas de cada cliente, así para poder obtener una batería de clientes que pasan por consulta.
+Los objetivos que queremos cumplir en la realización de este proyecto son los siguientes: 
+
+- Diseñar la interfaz de usuario: Crear un diseño que sea fácil de entender y navegar para los usuarios. Esto incluye la visualización del calendario y los controles para seleccionar fechas y horas disponibles.
+
+- Mostrar la disponibilidad de citas: Mostrar la disponibilidad de citas y poder marcar los horarios disponibles con colores diferentes o agregar etiquetas para indicar la disponibilidad.
+
+- Permitir a los usuarios reservar citas: Implementar la funcionalidad para que los usuarios puedan hacer clic en un horario disponible en el calendario y reservar una cita. 
+
+- Validar las citas: Agregar validaciones para evitar que los usuarios reserven citas en horarios que ya están ocupados o que no están dentro del horario de trabajo de la empresa.
+
+- Almacenar las citas: Guardar la información de las citas reservadas en una base de datos o en algún otro sistema de almacenamiento para que la empresa pueda acceder a ella más tarde.
+
+- Administrar las citas: Crear una interfaz de administración para que la empresa pueda ver todas las citas reservadas, cancelar citas si es necesario y realizar otras acciones relacionadas con la gestión de citas.
 
 
 ## Medios necesarios<a name="id3"></a>
 En este apartado indicaremos que medios físicos (hardware) y los medios lógicos (software) vamos a necesitar, siendo estos los siguientes:
 
-# 1.Hardware y Software
+### 1.Hardware y Software
   - Computadora: Una computadora personal o portátil que sea adecuada al desarrollo de software, que este lo más actualizada posible y con suficiente potencia.
   - Sistema Operativo: El sistema operativo que utilizaremos será Windows.
   - Entorno de Desarrollo: El entorno utilizado será Visual Studio Code con extensiones necesarias para el trabajo necesario.
@@ -67,8 +74,21 @@ En este apartado vamos a poner el orden de realización del proyecto y el tiempo
         Creación de las entidades de la base de datos.
 
     - Semana 6:
-        Implementación de JavaScript para ir añadiendo los usuarios a la bases de datos.
-        Implementación de JavaScript dentro de las páginas de HTML
+        Implementación de JavaScript con React para ir añadiendo los usuarios a la bases de datos.
+        Implementación de JavaScript con React dentro de las páginas de HTML.
 
     - Semana 7:
-        
+        Terminación de la implementación de React.
+
+    - Semana 8 :
+        Pruebas para garantizar el funcionamiento correcto de todas las funciones.
+        Comienzo de la documentación del proyecto.
+
+    - Semana 9: 
+        Terminación de la documentación del proyecto.
+        Revisión y entrega del proyecto como su documentación.
+
+Horas totales que se planifican para el proyecto: 65.
+
+
+Estas horas pueden variar, por lo cual pueden ser un poco orientativas.
