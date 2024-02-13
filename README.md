@@ -1,8 +1,9 @@
 #### Anteproyecto
 
-                                                                                              # PlazaFit 
+# PlazaFit 
 
 
+![Logo_Proyecto](https://github.com/albertororu/Anteproyecto/assets/116253841/bf929569-b885-406b-875b-34e7af3af72a)
 
 - Autor: Alberto Romero Rubiales
 - I.E.S. Francisco Romero Vargas(Jerez de la Frontera) 
