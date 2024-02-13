@@ -1,6 +1,7 @@
-# Anteproyecto
+#### Anteproyecto
 
-# Nombre Proyecto
+# PlazaFit
+
 
 
 - Autor: Alberto Romero Rubiales
@@ -10,19 +11,27 @@
 
 ## Índice
 1. [Introducción](#id1)
-2. [Objetivos](#id2)
-3. [Medios necesarios](#id3)
-4. [Planificación](#id4)
+2. [Finalidad](#id2)
+3. [Objetivos](#id3)
+4. [Medios necesarios](#id4)
+5. [Planificación](#id5)
 
 
 ## Introducción<a name="id1"></a>
 
 En este apartado explicaré de qué va a ir el proyecto. La idea de esta introducción es que cualquier persona que la lea sea capaz de entender el proyecto que se va a realizar.
 
-#### - Explicación: 
+- Explicación: 
 En este anteproyecto damos a explicar el proyecto que se quiere realizar, el cual, es el siguiente. Queremos realizar una aplicación donde se pueda coger y agendar citas de un lugar especifico, donde cada usuario se registre y una vez registrado poder coger cita para un día y hora en concreto, a la vez que modificar o eliminar la cita. Por otra parte el admnistador de la empresa puede ver, modificar, eliminar y añadir citas también. Para la realización de esta aplicación necesitaremos utilizar página HTML, página CSS y JavaScript con biblioteca React.
 
-## Objetivos<a name="id2"></a>
+## Finalidad<a name="id2"></a>
+La finalidad principal de este proyecto basado en React no es otro que proporcionar a las empresas una plataforma donde sus usuarios puedan coger una cita en un día y hora en concreto, al igual que el administrador pueda también realizar esas consultas.
+
+- Optimización Síncrona: Para implementar las vistas del calendario simples y rápidas, así como la navegación entre las diferentes vistas del calendario.
+- Escalabilidad: El proyecto se desarrollará teniendo en cuenta la escabilidad futura. En un futuro se podrán agregar opciones como recordatorios.
+- 
+
+## Objetivos<a name="id3"></a>
 Los objetivos que queremos cumplir en la realización de este proyecto son los siguientes: 
 
 - Diseñar la interfaz de usuario: Crear un diseño que sea fácil de entender y navegar para los usuarios. Esto incluye la visualización del calendario y los controles para seleccionar fechas y horas disponibles.
@@ -38,7 +47,7 @@ Los objetivos que queremos cumplir en la realización de este proyecto son los s
 - Administrar las citas: Crear una interfaz de administración para que la empresa pueda ver todas las citas reservadas, cancelar citas si es necesario y realizar otras acciones relacionadas con la gestión de citas.
 
 
-## Medios necesarios<a name="id3"></a>
+## Medios necesarios<a name="id4"></a>
 En este apartado indicaremos que medios físicos (hardware) y los medios lógicos (software) vamos a necesitar, siendo estos los siguientes:
 
 ### 1.Hardware y Software
@@ -48,7 +57,7 @@ En este apartado indicaremos que medios físicos (hardware) y los medios lógico
   - Recursos Graficos: Imágenes o emoticonos relacionados con la relación del calendario y agenda de citas.
   - Base de Datos: Para almacenar los datos de los usuarios, así como las citas de cada usuario e información. Para ello utilizaremos una base de datos, como puede ser SQLite.
 
-## Planificación<a name="id4"></a> 
+## Planificación<a name="id5"></a> 
 En este apartado vamos a poner el orden de realización del proyecto y el tiempo más o menos estimado que vamos a tardar en cada tarea. Estos tiempos son aproximados y pueden ser diferentes mientras se van realizando el proyecto.
 
     - Semana 1:
@@ -88,7 +97,7 @@ En este apartado vamos a poner el orden de realización del proyecto y el tiempo
         Terminación de la documentación del proyecto.
         Revisión y entrega del proyecto como su documentación.
 
-Horas totales que se planifican para el proyecto: 65.
+Horas totales que se planifican para el proyecto: 68.
 
 
 Estas horas pueden variar, por lo cual pueden ser un poco orientativas.
